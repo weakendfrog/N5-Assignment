@@ -1,4 +1,4 @@
-# N5-Assignment
+# N5-Assignment 2025
 import random
 
 counter = 0
@@ -39,4 +39,5 @@ elif counter ==3 or counter == 4:
     print("smoothie")
 
 else:
+
     print("fruit juice")
